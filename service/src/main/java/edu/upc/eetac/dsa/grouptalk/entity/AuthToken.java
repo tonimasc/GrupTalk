@@ -1,7 +1,7 @@
 package edu.upc.eetac.dsa.grouptalk.entity;
 
 /**
- * Created by toni on 5/10/15.
+ * Created by toni on 5/4/16.
  */
 import com.fasterxml.jackson.annotation.JsonInclude;
 import org.glassfish.jersey.linking.InjectLinks;

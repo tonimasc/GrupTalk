@@ -5,7 +5,7 @@ import edu.upc.eetac.dsa.grouptalk.entity.Grupos;
 import java.sql.SQLException;
 
 /**
- * Created by toni on 28/10/15.
+ * Created by toni on 7/4/16.
  */
 public interface GruposDAO {
     public Grupos getGrupo(String idgrupo) throws SQLException;

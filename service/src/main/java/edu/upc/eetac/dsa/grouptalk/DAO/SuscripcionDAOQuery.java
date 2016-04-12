@@ -1,7 +1,7 @@
 package edu.upc.eetac.dsa.grouptalk.DAO;
 
 /**
- * Created by toni on 28/10/15.
+ * Created by toni on 5/4/16.
  */
 public interface SuscripcionDAOQuery {
     public final static String CREATE_SUSCRIPCION = "insert into suscripcion (userid, grupoid) values (UNHEX(?), UNHEX(?))";

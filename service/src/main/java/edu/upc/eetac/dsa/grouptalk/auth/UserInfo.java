@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by toni on 5/10/15.
+ * Created by toni on 5/4/16.
  */
 
 public class UserInfo implements Principal {

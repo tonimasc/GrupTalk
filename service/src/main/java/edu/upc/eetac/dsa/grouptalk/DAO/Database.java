@@ -8,7 +8,7 @@ import java.sql.Connection;
 import java.sql.SQLException;
 
 /**
- * Created by toni on 28/10/15.
+ * Created by toni on 7/4/16.
  */
 public class Database {
     private static Database instance = null;

@@ -1,7 +1,7 @@
 package edu.upc.eetac.dsa.grouptalk.entity;
 
 /**
- * Created by toni on 28/10/15.
+ * Created by toni on 7/4/16.
  */
 
 import com.fasterxml.jackson.annotation.JsonInclude;

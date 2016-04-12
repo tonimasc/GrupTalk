@@ -5,7 +5,7 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 /**
- * Created by toni on 28/10/15.
+ * Created by toni on 5/4/16.
  */
 public class SuscripcionDAOImpl implements SuscripcionDAO{
     public boolean createSuscripcion(String userid, String grupoid) throws SQLException {

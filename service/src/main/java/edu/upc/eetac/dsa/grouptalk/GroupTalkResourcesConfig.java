@@ -3,7 +3,7 @@ package edu.upc.eetac.dsa.grouptalk;
 import org.glassfish.jersey.server.ResourceConfig;
 
 /**
- * Created by toni on 26/10/15.
+ * Created by toni on 7/4/16.
  */
 public class GroupTalkResourcesConfig extends ResourceConfig {
     public GroupTalkResourcesConfig() {

@@ -1,7 +1,7 @@
 package edu.upc.eetac.dsa.grouptalk.DAO;
 
 /**
- * Created by toni on 28/10/15.
+ * Created by toni on 7/4/16.
  */
 public class GruposDAOQuery {
     public final static String UUID = "select REPLACE(UUID(),'-','')";
